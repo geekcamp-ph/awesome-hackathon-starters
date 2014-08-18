@@ -23,6 +23,10 @@ Use this if you want to but it is best to study and probably work on your own te
 
 * <a href='https://github.com/etianen/django-herokuapp' target='_blank'>Django Heroku App</a>
 
+### CakePHP
+
+* <a href='https://github.com/FriendsOfCake/app-template' target='_blank'>CakePHP App Template</a>
+
 
 ## How to Contribute?
 
