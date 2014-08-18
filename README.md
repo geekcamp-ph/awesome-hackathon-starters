@@ -6,7 +6,7 @@ Created for participants of hackathons like <a href='http://hack4good.io' target
 
 ## What is a "hackathon starter"?
 
-It is meant to help you get started quickly (questionable) to create an application.
+It is a template meant to help you get started quickly (questionable) to create an application.
 Use this if you want to but it is best to study and probably work on your own template.
 
 ### Node.js
@@ -15,5 +15,9 @@ Use this if you want to but it is best to study and probably work on your own te
 
 ### Ruby on Rails
 
-* <a href='https://github.com/thoughtbot/suspenders' target='_blank'>Suspenders</a>
 * <a href='https://github.com/RailsApps/rails-composer' target='_blank'>Rails Composer</a>
+* <a href='https://github.com/thoughtbot/suspenders' target='_blank'>Suspenders</a>
+
+## How to Contribute?
+
+It's easy, just follow the [contribution guidelines](https://github.com/geekcamp-ph/hackathon-starters/blob/master/CONTRIBUTING.md).
