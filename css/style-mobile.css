@@ -26,15 +26,13 @@ body, input, textarea, select {
   text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
 }
 
-#features-wrapper
-{
+#features-wrapper {
   background: #353D40 url('images/bg02.jpg');
   padding: 15px 15px 30px 15px;
   text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
 }
 
-#content-wrapper
-{
+#content-wrapper {
   background: #f7f7f7 url('images/bg04.png');
   padding: 5px;
 }
@@ -70,8 +68,6 @@ body, input, textarea, select {
   line-height: 1.25em;
   margin: 0 0 1em 0;
 }
-
-/* Features */
 
 #features {
   color: #a0a8ab;
