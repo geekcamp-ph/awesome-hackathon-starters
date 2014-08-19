@@ -1,54 +1,122 @@
-<!doctype html>
 <html>
-<head>
-  <meta charset='utf-8'>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset='utf-8'>
+    <title>Hackathon Starters</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <script src="js/jquery.min.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/skel-panels.min.js"></script>
 
-  <title>Hackathon Starters</title>
+    <!-- Flatdoc -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src='http://rstacruz.github.io/flatdoc/v/0.8.6/flatdoc.js'></script>
+    <!-- Initializer -->
+    <script>
+      Flatdoc.run({
+        fetcher: Flatdoc.github('geekcamp-ph/hackathon-starters')
+      });
+    </script>
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+  </head>
+  <body class="subpage" role="flatdoc">
 
-  <!-- Flatdoc -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script src='http://rstacruz.github.io/flatdoc/v/0.8.6/legacy.js'></script>
-  <script src='http://rstacruz.github.io/flatdoc/v/0.8.6/flatdoc.js'></script>
-
-  <!-- Flatdoc theme -->
-  <link  href='http://rstacruz.github.io/flatdoc/v/0.8.6/theme-white/style.css' rel='stylesheet'>
-  <script src='http://rstacruz.github.io/flatdoc/v/0.8.6/theme-white/script.js'></script>
-
-  <!-- Meta -->
-  <meta content="Hackathon Starters" property="og:title">
-  <meta content="Open source app templates" name="description">
-
-  <!-- Initializer -->
-  <script>
-    Flatdoc.run({
-      fetcher: Flatdoc.github('geekcamp-ph/hackathon-starters')
-    });
-  </script>
-</head>
-<body class='large-brief' role='flatdoc'>
-
-  <div class='header'>
-    <div class='left'>
-      <h1>Hackathon Starters</h1>
-      <ul>
-        <li><a href='https://github.com/geekcamp-ph/hackathon-starters'>View on GitHub</a></li>
-        <li><a href='https://github.com/geekcamp-ph/hackathon-starters/issues'>Issues</a></li>
-      </ul>
+    <div id="header-wrapper">
+      <header id="header" class="container">
+        <div class="row">
+          <div class="12u">
+            <h1><a href="/" id="logo">Hackathon Starters</a></h1>
+            <nav id="nav">
+              <a href="https://github.com/geekcamp-ph/hackathon-starters">View on Github</a>
+              <a href="https://github.com/geekcamp-ph/hackathon-starters/issues">Issues</a>
+            </nav>
+          </div>
+        </div>
+      </header>
     </div>
-    <div class='right'>
-      <!-- GitHub buttons: see http://ghbtns.com -->
-      <iframe src="http://ghbtns.com/github-btn.html?user=geekcamp-ph&amp;repo=hackathon-starters&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-    </div>
-  </div>
 
-  <div class='content-root'>
-    <div class='menubar'>
-      <div class='menu section' role='flatdoc-menu'></div>
-    </div>
-    <div role='flatdoc-content' class='content'></div>
-  </div>
+    <div id="content-wrapper">
+      <div id="content">
+        <div class="container">
+          <div class="row">
+            <div class="3u">
+              <section role='flatdoc-menu'>
+              </section>
 
-</body>
+            </div>
+            <div class="9u skel-cell-important">
+
+              <section role='flatdoc-content'>
+
+              </section>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="footer-wrapper">
+      <footer id="footer" class="container">
+        <div class="row">
+          <div class="8u">
+
+            <section>
+              <h2>More Useful Projects</h2>
+              <div>
+                <div class="row">
+                  <div class="3u">
+                    <ul class="link-list last-child">
+                      <li><a href="http://usablica.github.io/front-end-frameworks/compare.html" target="_blank">CSS Frontend Frameworks</a></li>
+                      <li><a href="https://github.com/showcases/front-end-javascript-frameworks" target="_blank">Front-end JavaScript frameworks</a></li>
+                      <li><a href="http://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a></li>
+                    </ul>
+                  </div>
+                  <div class="3u">
+                    <ul class="link-list last-child">
+                      <li><a href="https://github.com/sorrycc/awesome-javascript" target="_blank">Awesome JavaScript</a></li>
+                      <li><a href="https://github.com/vinta/awesome-python" target="_blank">Awesome Python</a></li>
+                      <li><a href="https://github.com/markets/awesome-ruby" target="_blank">Awesome Ruby</a></li>
+                      <li><a href="https://github.com/ziadoz/awesome-php" target="_blank">Awesome PHP</a></li>
+                    </ul>
+                  </div>
+                  <div class="3u">
+                    <ul class="link-list last-child">
+                      <li><a href="https://github.com/sindresorhus/awesome-nodejs" target="_blank">Awesome Node.js</a></li>
+                      <li><a href="https://github.com/avelino/awesome-go" target="_blank">Awesome Go</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+          </div>
+          <div class="4u">
+
+            <!-- Blurb -->
+            <section>
+              <h2>We're looking for developers to join #hack4good in different cities!</h2>
+              <p>
+                If you're interested, do check out <a href="http://hack4good.io" target="_blank">#hack4good</a>.
+              </p>
+
+              <iframe src="http://ghbtns.com/github-btn.html?user=geekcamp-ph&amp;repo=hackathon-starters&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+
+            </section>
+
+          </div>
+        </div>
+      </footer>
+    </div>
+
+
+    <!-- Copyright -->
+    <div id="copyright">
+      Project maintained and started by <a href="http://c.kat.pe">Katherine Pe</a> | Created for <a href="http://www.geekcampbaguio.com">Geekcamp Baguio</a> &amp; <a href="http://hack4good.io" target="_blank">#hack4good</a>.
+    </div>
+
+  </body>
 </html>
