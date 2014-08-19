@@ -164,3 +164,9 @@ section > :last-child, .last-child {
 #hackathon-starters {
   font-size: 40px;
 }
+
+.share-links {
+  margin: 10px auto;
+  min-height: 50px;
+  width: 500px;
+}
