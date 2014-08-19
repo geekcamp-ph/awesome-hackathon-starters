@@ -4,7 +4,7 @@ A comprehensive list of application templates useful for hackathons and anything
 
 Created for participants of hackathons like <a href='http://hack4good.io' target='_blank'>#hack4good</a>.
 
-**What is a "hackathon starter"**
+**What is a "hackathon starter"?**
 
 It is a template usually for a framework or DSL meant to help you get started quickly (questionable) to **create** an application.
 A starter template should at least help you easily deploy on the cloud (Heroku, Amazon EC2, OpenShift, etc.).
@@ -13,6 +13,7 @@ Use this if you want to but it is best to study and probably work on your own te
 ## Node.js
 
 * <a href='https://github.com/sahat/hackathon-starter' target='_blank'>Hackathon Starter</a>
+* <a href='http://mean.io' target='_blank'>MEAN</a>
 
 ## Ruby on Rails
 
