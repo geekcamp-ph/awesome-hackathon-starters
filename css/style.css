@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200);
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,200);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
   background: #d4d9dd url('images/bg03.jpg');
@@ -7,10 +7,10 @@ body {
 
 body, input, textarea, select {
   color: #474f51;
-  font-size: 13.5pt;
-  font-family: 'Yanone Kaffeesatz';
-  line-height: 1.85em;
+  font-family: 'Oswald';
+  font-size: 16px;
   font-weight: 300;
+  line-height: 2.25em;
 }
 
 ul, ol, p, dl {
