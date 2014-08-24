@@ -15,6 +15,10 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 
 * <a href='https://github.com/FriendsOfCake/app-template' target='_blank'>CakePHP App Template</a>
 
+## Cuba
+
+* <a href='https://github.com/citrusbyte/cuba-app' target='_blank'>Cuba App</a>
+
 ## Django
 
 * <a href='https://github.com/etianen/django-herokuapp' target='_blank'>Django Heroku App</a>
