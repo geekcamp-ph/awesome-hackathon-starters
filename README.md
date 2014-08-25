@@ -7,9 +7,8 @@ Created for participants of hackathons like <a href='http://hack4good.io' target
 **What is a "hackathon starter"?**
 
 It is a template usually for a framework or DSL meant to help you get started quickly (questionable) to **create** an application.
-A starter template should at least help you easily deploy on the cloud (Heroku, Amazon EC2, OpenShift, etc.).
+A starter template should at least help you easily deploy on Heroku, Amazon EC2, OpenShift, etc.
 Use these if you want to. Sometimes it is best to study and probably work on your own template.
-
 
 ## CakePHP
 
@@ -34,6 +33,11 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 * <a href='https://github.com/lab2023/cybele' target='_blank'>Cybele</a>
 * <a href='https://github.com/RailsApps/rails-composer' target='_blank'>Rails Composer</a>
 * <a href='https://github.com/thoughtbot/suspenders' target='_blank'>Suspenders</a>
+
+## Symfony
+
+* <a href='https://github.com/symfony/symfony-standard' target='_blank'>Symfony Standard Edition</a>
+
 
 ## How to Contribute?
 
