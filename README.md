@@ -23,6 +23,10 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 * <a href='https://github.com/etianen/django-herokuapp' target='_blank'>Django Heroku App</a>
 * <a href='https://github.com/xenith/django-base-template' target='_blank'>Django Base Template</a>
 
+## Meteor.js
+
+* <a href='https://github.com/SachaG/Void' target='_blank'>Void</a>
+
 ## Node.js
 
 * <a href='https://github.com/sahat/hackathon-starter' target='_blank'>Hackathon Starter</a>
