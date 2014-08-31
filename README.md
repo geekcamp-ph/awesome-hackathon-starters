@@ -31,6 +31,7 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 
 * <a href='https://github.com/sahat/hackathon-starter' target='_blank'>Hackathon Starter</a>
 * <a href='http://mean.io' target='_blank'>MEAN</a>
+* <a href='https://github.com/gravityonmars/nodejs-starter' target='_blank'>Node.js Starter</a>
 
 ## Ruby on Rails
 
