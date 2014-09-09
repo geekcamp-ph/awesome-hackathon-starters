@@ -37,6 +37,7 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 
 * <a href='https://github.com/lab2023/cybele' target='_blank'>Cybele</a>
 * <a href='https://github.com/RailsApps/rails-composer' target='_blank'>Rails Composer</a>
+* <a href='https://github.com/RailsApps/rails-devise-pundit' target='_blank'>Rails Devise Pundit</a>
 * <a href='https://github.com/thoughtbot/suspenders' target='_blank'>Suspenders</a>
 
 ## Symfony
