@@ -22,6 +22,7 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 
 * <a href='https://github.com/etianen/django-herokuapp' target='_blank'>Django Heroku App</a>
 * <a href='https://github.com/xenith/django-base-template' target='_blank'>Django Base Template</a>
+* <a href='https://github.com/DrkSephy/django-hackathon-starter' target='_blank'> Django Hackathon Starter</a>
 
 ## Meteor.js
 
