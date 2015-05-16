@@ -24,6 +24,10 @@ Use these if you want to. Sometimes it is best to study and probably work on you
 * <a href='https://github.com/xenith/django-base-template' target='_blank'>Django Base Template</a>
 * <a href='https://github.com/DrkSephy/django-hackathon-starter' target='_blank'> Django Hackathon Starter</a>
 
+## Go
+
+* <a href='https://github.com/runemadsen/ok-go' target='_blank'>Ok Go Web Template</a>
+
 ## Meteor.js
 
 * <a href='https://github.com/SachaG/Void' target='_blank'>Void</a>
