@@ -1,4 +1,4 @@
-# Hackathon Starters
+# Awesome Hackathon Starters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A comprehensive list of application templates useful for hackathons and anything else.
 
