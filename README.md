@@ -3,8 +3,8 @@ A comprehensive list of application templates useful for hackathons and anything
 
 - [Awesome Hackathon Starters](#awesome-hackathon-starters)
     - [Go](#go)
-    - [Meteor.js](#meteor)
-    - [Node.js](#node)
+    - [Meteor.js](#meteor.js)
+    - [Node.js](#node.js)
     - [Ruby](#ruby)
     - [PHP](#php)
     - [Python](#python)
@@ -24,6 +24,8 @@ A comprehensive list of application templates useful for hackathons and anything
 *Templates for Node.js framework.*
 
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
+
+## Ruby
 
 
 # Contributing
