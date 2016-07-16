@@ -15,7 +15,7 @@ section:last-child {
 }
 
 .subpage #header-wrapper {
-  height: 155px;
+  height: 100px;
 }
 
 #features-wrapper {
@@ -44,9 +44,9 @@ section:last-child {
 #header h1 {
   position: absolute;
   left: 0;
-  bottom: 35px;
+  top: 30px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 3.75em;
+  font-size: 2.30em;
 }
 
 #header h1 a {
@@ -57,7 +57,7 @@ section:last-child {
 #header nav {
   position: absolute;
   right: 0;
-  bottom: 35px;
+  top: 30px;
   font-weight: 200;
 }
 
