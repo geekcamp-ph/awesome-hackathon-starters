@@ -23,14 +23,14 @@ A comprehensive list of application templates useful for hackathons and anything
 ## Node.js
 *Templates for Node.js framework.*
 
-# Ruby
+## Ruby
 *Templates for Ruby DSL's/ Ruby on Rails*
 
 *[Suspenders](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku.
 
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
 
-## Ruby
+## Python
 
 
 # Contributing
